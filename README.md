@@ -175,19 +175,15 @@ This project combines data analytics and storytelling to explain Australia’s e
 ├── README.md
 ├── data/
 │   ├── raw/
-│   │   └── australia_import_export_raw.xlsx
 │   └── processed/
-│       └── cleaned_trade_dataset.xlsx
 ├── visuals/
 │   ├── Total_Trade_Trends.png
 │   ├── Category6_Trade_analysis.png
 │   ├── 04_subcategory6_trends.png
 │   ├── 05_Category6_vs_Subcategory68_Comparison.png
 │   └── 06_Subcategory68_Export_Forecast.png
-├── dashboards/
-│   └── tableau_dashboard.twb
-├── storyboards/
-│   └── trade_storyboard.twb
+├── tableau/
+│   └── trade_visual_analytics.twbx
 └── reports/
     └── project_report.pdf
 
