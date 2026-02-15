@@ -183,9 +183,9 @@ This project combines data analytics and storytelling to explain Australia’s e
 │   ├── 05_Category6_vs_Subcategory68_Comparison.png
 │   └── 06_Subcategory68_Export_Forecast.png
 ├── tableau/
-│   └── trade_visual_analytics.twbx
+│   └── trade_visual_analytics.twb
 └── reports/
-    └── project_report.pdf
+    └── Australia trade visual analytics.pdf
 
 
 
