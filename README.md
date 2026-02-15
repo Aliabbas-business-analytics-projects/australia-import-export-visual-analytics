@@ -1,4 +1,25 @@
-# Australia Import–Export Visual Analytics
+# Australia Import–Export Visual Analytics: Trade Patterns, Category Analysis & Export Forecasting
+
+---
+
+![Project](https://img.shields.io/badge/Project-Trade%20Visual%20Analytics-blue)  
+![Tool](https://img.shields.io/badge/Excel-Data%20Cleaning%20%26%20Preparation-brightgreen)  
+![Tool](https://img.shields.io/badge/Tableau-Dashboard%20%26%20Storyboarding-orange)  
+![Analysis](https://img.shields.io/badge/Analysis-Statistical%20Patterns-red)  
+![Forecasting](https://img.shields.io/badge/Forecast-Export%20Trend%20Projection-purple)  
+![License](https://img.shields.io/badge/License-MIT-green)
+
+---
+
+**Author:** Ali Abbas  
+**Course:** Data Visualisation & Visual Analytics  
+**Project Type:** Trade Data Analytics & Forecasting  
+**Focus Area:** Australia Import–Export Trade (Category 6 & Subcategory 68)  
+**Tools Used:** Excel, Tableau  
+**Year:** 2025
+
+
+
 
 ---
 
